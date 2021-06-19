@@ -1,0 +1,87 @@
+
+M
+java:S1444$"2Make this "public static sudokuBefore" field final(Øöãµùÿÿÿÿ
+G
+java:S1444%"1Make this "public static sudokuAfter" field final(ğı¥ç
+H
+java:S1444&"-Make this "public static lowTime" field final(ÖÊ–ûÿÿÿÿ
+C
+java:S1444'"-Make this "public static editNum" field final(Û‹”
+E
+java:S1444("/Make this "public static recallNum" field final(øâçÓ
+[	java:S112c"FDefine and throw a dedicated exception instead of using a generic one.(ÊŠãÒ
+[	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(í½ÁÑ
+7
+java:S1643B"Use a StringBuilder instead.(”İÿÊùÿÿÿÿ
+t	java:S135È"YReduce the total number of break and continue statements in this loop to use at most one.(¿’¡ñşÿÿÿÿ
+s
+java:S1104$"XMake sudokuBefore a static final constant or non-public and provide accessors if needed.(Øöãµùÿÿÿÿ
+m
+java:S1104%"WMake sudokuAfter a static final constant or non-public and provide accessors if needed.(ğı¥ç
+n
+java:S1104&"SMake lowTime a static final constant or non-public and provide accessors if needed.(ÖÊ–ûÿÿÿÿ
+i
+java:S1104'"SMake editNum a static final constant or non-public and provide accessors if needed.(Û‹”
+k
+java:S1104("UMake recallNum a static final constant or non-public and provide accessors if needed.(øâçÓ
+8
+java:S2386$"Make this member "protected".(Øöãµùÿÿÿÿ
+3
+java:S2386%"Make this member "protected".(ğı¥ç
+H
+java:S1135"2Complete the task associated to this TODO comment.(«é¢
+J
+java:S6212,"/Declare this local variable with "var" instead.(£ôÉêıÿÿÿÿ
+J
+java:S6212."/Declare this local variable with "var" instead.(ù«êËıÿÿÿÿ
+E
+java:S62121"/Declare this local variable with "var" instead.(ÊÄÒ³
+D
+java:S62122"/Declare this local variable with "var" instead.(³í³~
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(•„×á
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(¬ü÷øÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(İá½£úÿÿÿÿ
+J
+java:S6212="/Declare this local variable with "var" instead.(‹ìÕ¿ùÿÿÿÿ
+J
+java:S6212@"/Declare this local variable with "var" instead.(ûÍÇÉøÿÿÿÿ
+M	java:S106R"9Replace this use of System.out or System.err by a logger.(ÇÏa
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(ê¡Êùÿÿÿÿ
+J
+java:S6212["/Declare this local variable with "var" instead.(¸­¬æúÿÿÿÿ
+J
+java:S6212]"/Declare this local variable with "var" instead.(·ÕÑıÿÿÿÿ
+J
+java:S6212m"/Declare this local variable with "var" instead.(ğ¦ù¾øÿÿÿÿ
+o
+java:S2293u"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä™Œé
+J
+java:S6212v"/Declare this local variable with "var" instead.(ù«êËıÿÿÿÿ
+o
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(’Èœç
+t
+java:S2293x"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä¹’Ïıÿÿÿÿ
+t
+java:S2293y"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨èñ—úÿÿÿÿ
+J
+java:S6212|"/Declare this local variable with "var" instead.(ù«êËıÿÿÿÿ
+J
+java:S6212}"/Declare this local variable with "var" instead.(“ØÔ©üÿÿÿÿ
+J
+java:S6212~"/Declare this local variable with "var" instead.(›¯À¡ùÿÿÿÿ
+F
+java:S6212•"/Declare this local variable with "var" instead.(˜¼ææ
+K
+java:S6212¢"/Declare this local variable with "var" instead.(¥ûÒ·ÿÿÿÿÿ
+K
+java:S6212£"/Declare this local variable with "var" instead.(àÂÍºøÿÿÿÿ
+N	java:S106¯"9Replace this use of System.out or System.err by a logger.(¹Ë²
+p
+java:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(óåˆ®
+F
+java:S6212À"/Declare this local variable with "var" instead.(ç¸ê
+K
+java:S6212È"/Declare this local variable with "var" instead.(¿’¡ñşÿÿÿÿ
+O	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(Ëø×«
+O	java:S106İ"9Replace this use of System.out or System.err by a logger.(Ÿô¨
+O	java:S106ç"9Replace this use of System.out or System.err by a logger.(Ÿô¨
