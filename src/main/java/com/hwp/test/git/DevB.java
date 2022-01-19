@@ -5,5 +5,6 @@ public class DevB {
     public static void main(String[] args) {
         long b = 12L;
         long c = b * 2;
+        int a = 1;
     }
 }
