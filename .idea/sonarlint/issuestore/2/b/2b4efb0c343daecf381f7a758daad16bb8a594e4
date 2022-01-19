@@ -1,27 +1,0 @@
-
-n
-java:S2259"SA "NullPointerException" could be thrown; "calculateProbability()" can return null.(²ùÀ­úÿÿÿÿ
-`
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ÿµ×þúÿÿÿÿ
-`
-java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(Ñù÷Çûÿÿÿÿ
-Z
-java:S1124
-"EReorder the modifiers to comply with the Java Language Specification.(ôÿñ
-Z
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Óóð5
-`
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ïº½©ýÿÿÿÿ
-[
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.( áƒš
-[
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(•“ñ¬
-J
-java:S6212"/Declare this local variable with "var" instead.(ÉÖŠÉþÿÿÿÿ
-J
-java:S6212"/Declare this local variable with "var" instead.(õßÿùþÿÿÿÿ
-J
-java:S6212"/Declare this local variable with "var" instead.(²ùÀ­úÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(šýÆÀüÿÿÿÿ
-E
-java:S6212/"/Declare this local variable with "var" instead.(¤úõé
